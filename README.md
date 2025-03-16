@@ -1,3 +1,3 @@
 # IOTA-ns3
- Simple ns3 simulation to show how IOTA S Perform on different  network conditions
+ Simple ns3 simulation to demonstrate how IOTA performs under various network situations.
 It is important to note that the simulation outcome can be changed by adjusting multiple simulation settings.
